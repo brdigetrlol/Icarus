@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Extended affective state — 3D PAD model with Plutchik emotions.
 //!
 //! Extends Icarus's 2D (Valence, Arousal) affect into 3D PAD (Pleasure, Arousal, Dominance)

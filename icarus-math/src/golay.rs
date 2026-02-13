@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Extended Binary Golay Code \[24, 12, 8\]
 //!
 //! The extended Golay code is a perfect, self-dual binary code and the

@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! EmotionAgent — Maps EMC physics to Plutchik activations, applies personality
 //! modulation, detects compound emotions, updates PAD + extended aether + mood,
 //! and gates memory encoding.

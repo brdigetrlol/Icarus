@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Perception Agent — External data injection into the manifold
 //!
 //! The perception agent is the EMC's interface to the outside world.

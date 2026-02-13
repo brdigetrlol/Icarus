@@ -1,0 +1,173 @@
+ICARUS PROPRIETARY LICENSE
+Version 1.0, February 2026
+
+Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+
+NOTICE: This software and associated documentation files (the "Software")
+are the exclusive intellectual property of the copyright holder. The
+Software is protected by copyright law and international treaties.
+
+================================================================================
+1. GRANT OF RIGHTS
+================================================================================
+
+Subject to the terms of this License, you are granted the following
+LIMITED rights:
+
+  (a) VIEW ONLY — You may view and read the source code of this Software
+      solely for educational and evaluation purposes.
+
+  (b) FORK FOR CONTRIBUTION — You may fork this repository on GitHub
+      solely for the purpose of submitting pull requests back to the
+      original repository. Any fork that is not used for this purpose
+      must be deleted.
+
+NO OTHER RIGHTS ARE GRANTED, whether express or implied.
+
+================================================================================
+2. RESTRICTIONS — PROHIBITED ACTIONS
+================================================================================
+
+You may NOT, under any circumstances:
+
+  (a) COPY — Copy, reproduce, or duplicate the Software or any substantial
+      portion thereof, in any form or medium.
+
+  (b) MODIFY — Modify, alter, adapt, translate, or create derivative works
+      based on the Software.
+
+  (c) DISTRIBUTE — Distribute, publish, transfer, sublicense, lease, lend,
+      sell, or otherwise make available the Software or any copy thereof
+      to any third party, by any means.
+
+  (d) COMMERCIAL USE — Use the Software, in whole or in part, for any
+      commercial purpose, including but not limited to incorporating it
+      into commercial products, offering it as a service, or using it
+      to generate revenue.
+
+  (e) REVERSE ENGINEER — Reverse engineer, decompile, disassemble, or
+      otherwise attempt to derive the algorithms, data structures, or
+      architectural patterns of the Software for the purpose of
+      reimplementation.
+
+  (f) CLAIM AUTHORSHIP — Represent, imply, or suggest that you authored,
+      co-authored, or contributed to the Software unless you have made
+      accepted contributions to the original repository.
+
+  (g) REMOVE NOTICES — Remove, alter, or obscure any copyright notice,
+      license text, or proprietary legend contained in or on the Software.
+
+  (h) TRAIN AI/ML MODELS — Use the Software as training data for machine
+      learning models, code generation systems, or any automated system
+      that produces code, without explicit written permission from the
+      copyright holder.
+
+================================================================================
+3. TERMINATION
+================================================================================
+
+  (a) Any violation of this License immediately and automatically
+      terminates all rights granted herein, without notice.
+
+  (b) Upon termination, you must immediately destroy all copies of the
+      Software in your possession or control, including any forks,
+      clones, or cached copies.
+
+  (c) Termination does not limit the copyright holder's right to pursue
+      legal remedies for any breach.
+
+================================================================================
+4. ENFORCEMENT AND LEGAL CONSEQUENCES
+================================================================================
+
+  (a) COPYRIGHT PROTECTION — This Software is protected under the
+      Copyright Act of 1976 (17 U.S.C. §§ 101-810), the Digital
+      Millennium Copyright Act (17 U.S.C. § 1201 et seq.), the Berne
+      Convention for the Protection of Literary and Artistic Works,
+      and all applicable international copyright treaties.
+
+  (b) STATUTORY DAMAGES — Willful infringement of this copyright may
+      result in statutory damages of up to $150,000 per work infringed
+      (17 U.S.C. § 504(c)(2)), in addition to actual damages, lost
+      profits, and disgorgement of infringer's profits.
+
+  (c) CRIMINAL PENALTIES — Willful copyright infringement for commercial
+      advantage or private financial gain is a federal crime punishable
+      by up to 5 years imprisonment and $250,000 in fines
+      (17 U.S.C. § 506, 18 U.S.C. § 2319).
+
+  (d) DMCA ENFORCEMENT — The copyright holder will pursue DMCA takedown
+      notices (17 U.S.C. § 512) against any unauthorized copies,
+      distributions, or derivative works found on any platform, hosting
+      service, or repository.
+
+  (e) INJUNCTIVE RELIEF — The copyright holder may seek immediate
+      injunctive relief to prevent ongoing or threatened infringement.
+
+  (f) ATTORNEYS' FEES — In any legal action arising from infringement
+      of this License, the prevailing party shall be entitled to
+      recover reasonable attorneys' fees and costs (17 U.S.C. § 505).
+
+================================================================================
+5. INTELLECTUAL PROPERTY
+================================================================================
+
+  (a) The Software embodies novel algorithms, mathematical frameworks,
+      architectural designs, and engineering techniques that constitute
+      trade secrets and proprietary know-how of the copyright holder.
+
+  (b) Nothing in this License grants any right to any patent, trademark,
+      trade secret, or other intellectual property right of the copyright
+      holder, except the limited viewing right expressly stated in
+      Section 1(a).
+
+  (c) The names "Icarus," "Emergent Manifold Computer," "EMC," and
+      "Cortana" as used in this Software are proprietary designations
+      of the copyright holder.
+
+================================================================================
+6. NO WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+================================================================================
+7. GOVERNING LAW
+================================================================================
+
+This License shall be governed by and construed in accordance with the
+laws of the United States of America and the state in which the copyright
+holder resides, without regard to conflict of law principles. Any legal
+action arising under this License shall be brought exclusively in the
+federal or state courts of that jurisdiction.
+
+================================================================================
+8. SEVERABILITY
+================================================================================
+
+If any provision of this License is held to be invalid or unenforceable,
+the remaining provisions shall continue in full force and effect.
+
+================================================================================
+9. ENTIRE AGREEMENT
+================================================================================
+
+This License constitutes the entire agreement between you and the
+copyright holder regarding the Software and supersedes all prior
+agreements, representations, and understandings.
+
+================================================================================
+CONTACT
+================================================================================
+
+For licensing inquiries, commercial use requests, or to report
+infringement, contact the copyright holder through GitHub:
+https://github.com/brdigetrlol
+
+================================================================================

@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Free Energy Functional for the Icarus EMC
 //!
 //! The free energy F[z, g] is the Lyapunov functional for the RAE dynamics.

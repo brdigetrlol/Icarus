@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Plutchik's Wheel of Emotions — 8 primary emotions as 4 bipolar pairs,
 //! 3 intensity levels, and 16 compound emotions (dyads) from co-activation.
 

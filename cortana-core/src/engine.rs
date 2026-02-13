@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! CortanaEngine — Top-level orchestrator wrapping the Icarus EMC.
 //!
 //! Composes the EmergentManifoldComputer with Cortana's extended affective

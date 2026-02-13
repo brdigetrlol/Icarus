@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Extended neuromodulator system — 8 neuromodulators with coupled ODE dynamics.
 //!
 //! Extends Icarus's 4 neuromodulators (DA, NE, ACh, 5-HT) with 4 social/stress/reward

@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! HCP (Hexagonal Close-Packed) Lattice — implemented as A_n lattice
 //!
 //! Construction: A_n = {(x₁, ..., x_{n+1}) ∈ Z^{n+1} | Σxᵢ = 0}

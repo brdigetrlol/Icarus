@@ -1,0 +1,51 @@
+================================================================================
+                          LEGAL NOTICE
+================================================================================
+
+Icarus — GPU-accelerated Emergent Manifold Computer with Cortana Emotion Engine
+
+Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+
+This software is proprietary and confidential. Unauthorized copying,
+distribution, modification, or any use beyond viewing is strictly
+prohibited and will be prosecuted to the fullest extent of the law.
+
+See LICENSE for the complete terms.
+
+================================================================================
+                      ENFORCEMENT POLICY
+================================================================================
+
+The copyright holder actively monitors for unauthorized use, copying,
+and distribution of this Software. Enforcement measures include but
+are not limited to:
+
+  * DMCA takedown notices to GitHub, GitLab, Bitbucket, and all
+    hosting platforms
+  * DMCA takedown notices to search engines (Google, Bing, etc.)
+  * Legal action for statutory damages up to $150,000 per infringed work
+  * Criminal referrals for willful commercial infringement
+  * Pursuit of injunctive relief in federal court
+
+Infringement is tracked using code fingerprinting, watermark detection,
+and automated monitoring services.
+
+================================================================================
+                     COPYRIGHT REGISTRATION
+================================================================================
+
+This work is registered with the U.S. Copyright Office. Registration
+provides prima facie evidence of copyright validity and enables the
+copyright holder to seek statutory damages and attorneys' fees without
+proving actual damages.
+
+================================================================================
+                       THIRD-PARTY NOTICES
+================================================================================
+
+This Software depends on open-source libraries distributed under their
+own licenses (MIT, Apache-2.0, etc.). These dependencies are separate
+works and their licenses apply only to those libraries, not to this
+Software. See each dependency's license in its respective crate.
+
+================================================================================

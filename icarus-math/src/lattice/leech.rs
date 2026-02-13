@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Leech Lattice (24D) — Creative/Analogical Reasoning Layer (System 1.5)
 //!
 //! The Leech lattice Lambda_24 is the unique even unimodular lattice in 24

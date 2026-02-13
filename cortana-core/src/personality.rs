@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Big Five (OCEAN) personality model — stable traits that modulate emotional dynamics.
 
 use serde::{Deserialize, Serialize};

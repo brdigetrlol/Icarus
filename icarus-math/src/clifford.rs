@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Clifford Algebra (Geometric Algebra) for Icarus EMC
 //!
 //! Implements Cl(n) geometric algebra with Complex<f32> coefficients

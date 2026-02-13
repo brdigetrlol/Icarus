@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Icarus Full Exhaustive Training Driver — "The Disco"
 //!
 //! All CPUs blazing. GPU on the big configs. Every encoder. Every parameter combination

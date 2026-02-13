@@ -1,0 +1,6 @@
+# Ensure license files are always present and unmodified
+LICENSE linguist-generated=false export-subst
+NOTICE linguist-generated=false export-subst
+
+# Mark as proprietary - not open source
+* linguist-vendored=false

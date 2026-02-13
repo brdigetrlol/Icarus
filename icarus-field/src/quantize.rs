@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Advanced quantization inspired by Quartet II (arXiv:2601.22813).
 //!
 //! Implements techniques from the MS-EDEN paper for improved field snapshot

@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Planning Agent — Energy landscape monitoring, convergence analysis, and geodesic tracking
 //!
 //! The planning agent tracks the free energy trajectory across ticks,

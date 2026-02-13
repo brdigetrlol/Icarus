@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! TCP client for the Icarus NPU Bridge running on Windows.
 //!
 //! Connects to the bridge server over TCP and sends binary protocol

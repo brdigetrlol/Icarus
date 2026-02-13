@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Input Encoding for the Emergent Manifold Computer
 //!
 //! Three encoding strategies map external data into the EMC's complex phase field:

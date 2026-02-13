@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Processor orchestrator — capability-based routing to ecosystem processors.
 //!
 //! Maintains a registry of available processors and their capabilities.

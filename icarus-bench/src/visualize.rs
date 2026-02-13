@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Icarus Fitness Visualizer — 3D E8 Lattice + Training Progress
 //!
 //! Generates a self-contained HTML file with Three.js WebGL rendering:

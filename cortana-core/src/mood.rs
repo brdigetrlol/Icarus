@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Mood system — slow-moving emotional baseline that biases emotion dynamics.
 //!
 //! Mood operates on a much longer timescale than emotions (~1000 ticks EMA)

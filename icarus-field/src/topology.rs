@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Persistent homology for topological regularization of the phase field.
 //!
 //! Computes β₀ (connected components) via sublevel set filtration on |z|²,

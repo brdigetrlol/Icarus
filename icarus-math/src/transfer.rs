@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Inter-Layer Transfer Operators for Icarus EMC
 //!
 //! Embedding (upward) and distillation (downward) operators that move

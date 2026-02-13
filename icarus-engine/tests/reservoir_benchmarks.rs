@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Reservoir Computing Benchmarks for the Emergent Manifold Computer
 //!
 //! Standard benchmarks that validate the EMC's computational capabilities:

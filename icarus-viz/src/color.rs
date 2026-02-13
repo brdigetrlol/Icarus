@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Color mapping functions for Icarus visualizations.
 //!
 //! All colors are returned as (r, g, b) tuples in [0.0, 1.0] range

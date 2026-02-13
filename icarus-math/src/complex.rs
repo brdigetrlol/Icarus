@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Complex<f32> Structure-of-Arrays (SoA) Helpers for GPU-friendly layout
 //!
 //! GPU kernels operate on contiguous f32 arrays (values_re[], values_im[]),

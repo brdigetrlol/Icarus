@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! N-Dimensional Space Group and Symmetry Operations for Icarus EMC
 //!
 //! Generalized from the 3D crystallographic space groups to N dimensions.

@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! 3D Lattice Field Renderer — the hero visualization.
 //!
 //! Procedurally generates an interactive 3D point cloud from EMC layer state:

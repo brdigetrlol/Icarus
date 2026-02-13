@@ -173,4 +173,18 @@ The mathematical substrate is built on exceptional structures:
 
 ## License
 
-MIT
+**Proprietary — All Rights Reserved**
+
+This software is protected under the [Icarus Proprietary License](LICENSE). You may **view** the source code for educational and evaluation purposes only. All other rights are explicitly reserved.
+
+**You may NOT:**
+- Copy, reproduce, or duplicate this code
+- Modify or create derivative works
+- Distribute, publish, or share this code
+- Use this code for any commercial purpose
+- Use this code to train AI/ML models
+- Claim authorship of any part of this code
+
+Violations will be met with DMCA takedowns, statutory damages (up to $150,000 per work), and criminal referral where applicable. See [LICENSE](LICENSE) and [NOTICE](NOTICE) for full terms.
+
+Copyright (c) 2025-2026 brdigetrlol. All rights reserved.

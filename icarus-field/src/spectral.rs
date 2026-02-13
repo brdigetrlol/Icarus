@@ -1,3 +1,7 @@
+// Copyright (c) 2025-2026 brdigetrlol. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-Icarus-Proprietary
+// See LICENSE in the repository root for full license terms.
+
 //! Spectral Methods for the Graph Laplacian
 //!
 //! Eigendecomposes the weighted graph Laplacian operator used in the RAE,
