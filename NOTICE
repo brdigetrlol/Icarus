@@ -20,12 +20,22 @@ The copyright holder actively monitors for unauthorized use, copying,
 and distribution of this Software. Enforcement measures include but
 are not limited to:
 
-  * DMCA takedown notices to GitHub, GitLab, Bitbucket, and all
-    hosting platforms
+  * DMCA takedown notices to GitHub, GitLab, Bitbucket, and ALL
+    hosting platforms, package registries, and websites worldwide
   * DMCA takedown notices to search engines (Google, Bing, etc.)
-  * Legal action for statutory damages up to $150,000 per infringed work
-  * Criminal referrals for willful commercial infringement
-  * Pursuit of injunctive relief in federal court
+  * Civil litigation for STATUTORY DAMAGES up to $1,500,000+
+    ($150,000 per work × 10+ separately copyrightable works)
+  * LIQUIDATED DAMAGES of $1,000,000 per violation (contractual)
+  * TRADE SECRET claims under the Defend Trade Secrets Act
+    (uncapped actual damages + 2x exemplary for willful misappropriation)
+  * ACTUAL DAMAGES — uncapped, including full market value and
+    disgorgement of all infringer profits
+  * Criminal referrals to the DOJ and FBI Cyber Division for willful
+    commercial infringement (up to 10 years, $5,000,000 in fines)
+  * Immediate injunctive relief (TRO, preliminary, and permanent)
+  * International enforcement in ALL Berne Convention jurisdictions
+
+  TOTAL MINIMUM CIVIL EXPOSURE: MILLIONS OF DOLLARS per incident.
 
 Infringement is tracked using code fingerprinting, watermark detection,
 and automated monitoring services.

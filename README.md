@@ -185,6 +185,15 @@ This software is protected under the [Icarus Proprietary License](LICENSE). You 
 - Use this code to train AI/ML models
 - Claim authorship of any part of this code
 
-Violations will be met with DMCA takedowns, statutory damages (up to $150,000 per work), and criminal referral where applicable. See [LICENSE](LICENSE) and [NOTICE](NOTICE) for full terms.
+**Violations carry SEVERE consequences:**
+- **Statutory damages**: up to **$1,500,000+** ($150,000 × 10+ separate copyrightable works)
+- **Liquidated damages**: **$1,000,000** per violation (contractual, on top of statutory)
+- **Trade secret damages**: uncapped actual + 2x exemplary under the Defend Trade Secrets Act
+- **Actual damages**: **UNCAPPED** — full market value + disgorgement of all profits
+- **Criminal penalties**: up to **10 years imprisonment** and **$5,000,000 in fines**
+- **DMCA takedowns** on every platform worldwide
+- **Total minimum civil exposure: MILLIONS OF DOLLARS per incident**
+
+See [LICENSE](LICENSE) and [NOTICE](NOTICE) for full terms.
 
 Copyright (c) 2025-2026 brdigetrlol. All rights reserved.

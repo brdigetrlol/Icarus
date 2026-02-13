@@ -84,29 +84,151 @@ You may NOT, under any circumstances:
       Copyright Act of 1976 (17 U.S.C. §§ 101-810), the Digital
       Millennium Copyright Act (17 U.S.C. § 1201 et seq.), the Berne
       Convention for the Protection of Literary and Artistic Works,
-      and all applicable international copyright treaties.
+      the Canada Copyright Act (R.S.C., 1985, c. C-42), and all
+      applicable international copyright treaties and conventions.
 
-  (b) STATUTORY DAMAGES — Willful infringement of this copyright may
-      result in statutory damages of up to $150,000 per work infringed
-      (17 U.S.C. § 504(c)(2)), in addition to actual damages, lost
-      profits, and disgorgement of infringer's profits.
+  (b) MULTIPLE COPYRIGHTABLE WORKS — This Software comprises multiple
+      independently copyrightable works, including but not limited to:
+      icarus-math, icarus-field, icarus-gpu, icarus-engine, icarus-viz,
+      icarus-mcp, icarus-bench, icarus-game, cortana-core, and
+      cortana-mcp. EACH constitutes a separate "work" for purposes of
+      copyright infringement claims. Any single act of infringement that
+      encompasses multiple works gives rise to SEPARATE claims and
+      SEPARATE damages awards for EACH work infringed.
 
-  (c) CRIMINAL PENALTIES — Willful copyright infringement for commercial
+  (c) STATUTORY DAMAGES — Willful infringement of this copyright may
+      result in statutory damages of up to $150,000 PER WORK infringed
+      (17 U.S.C. § 504(c)(2)). As this Software contains a minimum of
+      TEN (10) separately copyrightable works, a single act of willful
+      infringement may result in statutory damages of up to
+      $1,500,000 (ONE MILLION FIVE HUNDRED THOUSAND DOLLARS) or more,
+      PLUS actual damages, lost profits, and complete disgorgement of
+      the infringer's profits attributable to the infringement.
+
+  (d) ACTUAL DAMAGES — UNCAPPED — In addition to or in lieu of statutory
+      damages, the copyright holder may elect to recover ACTUAL DAMAGES
+      suffered as a result of infringement, plus any profits of the
+      infringer attributable to the infringement that are not taken into
+      account in computing actual damages (17 U.S.C. § 504(b)). Actual
+      damages are NOT CAPPED and may include: the full market value of
+      the Software, licensing fees the infringer would have paid, revenue
+      generated using the Software, consequential damages to the copyright
+      holder's business, and any other provable harm.
+
+  (e) LIQUIDATED DAMAGES — BY ACCESSING, VIEWING, DOWNLOADING, FORKING,
+      CLONING, OR OTHERWISE OBTAINING A COPY OF THIS SOFTWARE, YOU
+      ACKNOWLEDGE AND AGREE THAT:
+
+        (i)   The novel algorithms, mathematical frameworks (including but
+              not limited to the Leech lattice implementation, Extended
+              Golay Code, reservoir computing architecture, emergent
+              manifold computation, and emotion simulation engine),
+              architectural designs, and engineering techniques embodied
+              in this Software represent YEARS of original research and
+              development with a replacement value that is difficult to
+              calculate precisely;
+
+        (ii)  In the event of ANY breach of this License — including but
+              not limited to unauthorized copying, distribution,
+              modification, commercial use, derivative work creation, or
+              use for AI/ML training — you shall be liable for LIQUIDATED
+              DAMAGES in the amount of ONE MILLION DOLLARS ($1,000,000)
+              per violation, which the parties agree represents a
+              reasonable estimate of the minimum harm caused by such
+              breach and is not a penalty;
+
+        (iii) Each distinct act of infringement (each copy made, each
+              distribution, each commercial deployment, each derivative
+              work, each AI/ML training run) constitutes a SEPARATE
+              VIOLATION subject to separate liquidated damages;
+
+        (iv)  Liquidated damages are IN ADDITION TO (not in lieu of)
+              statutory damages, actual damages, injunctive relief,
+              criminal penalties, and all other remedies available at
+              law or equity.
+
+  (f) TRADE SECRET MISAPPROPRIATION — The algorithms, data structures,
+      mathematical proofs, architectural patterns, and engineering
+      techniques contained in this Software constitute TRADE SECRETS
+      under the Defend Trade Secrets Act (18 U.S.C. § 1836 et seq.)
+      and applicable state Uniform Trade Secrets Acts. Misappropriation
+      of these trade secrets may result in:
+
+        (i)   Damages for actual loss and unjust enrichment
+              (18 U.S.C. § 1836(b)(3)(B)(i));
+        (ii)  EXEMPLARY DAMAGES of up to TWO TIMES (2x) the amount
+              of actual damages for willful and malicious misappropriation
+              (18 U.S.C. § 1836(b)(3)(C));
+        (iii) Reasonable attorneys' fees (18 U.S.C. § 1836(b)(3)(D));
+        (iv)  Criminal penalties of up to 10 years imprisonment and
+              $5,000,000 in fines for trade secret theft
+              (18 U.S.C. § 1832).
+
+  (g) CRIMINAL PENALTIES — Willful copyright infringement for commercial
       advantage or private financial gain is a federal crime punishable
       by up to 5 years imprisonment and $250,000 in fines
-      (17 U.S.C. § 506, 18 U.S.C. § 2319).
+      (17 U.S.C. § 506, 18 U.S.C. § 2319). Repeat offenders face up
+      to 10 years imprisonment. Criminal trade secret theft carries
+      penalties of up to 10 years and $5,000,000 (18 U.S.C. § 1832).
+      The copyright holder WILL refer willful infringers to the
+      Department of Justice and the FBI Cyber Division for prosecution.
 
-  (d) DMCA ENFORCEMENT — The copyright holder will pursue DMCA takedown
-      notices (17 U.S.C. § 512) against any unauthorized copies,
-      distributions, or derivative works found on any platform, hosting
-      service, or repository.
+  (h) DMCA ENFORCEMENT — The copyright holder will pursue DMCA takedown
+      notices (17 U.S.C. § 512) against ANY unauthorized copies,
+      distributions, or derivative works found on ANY platform, hosting
+      service, repository, package registry, or website, worldwide.
+      Circumvention of technological protection measures is separately
+      actionable under 17 U.S.C. § 1203, with statutory damages of up
+      to $25,000 per act of circumvention.
 
-  (e) INJUNCTIVE RELIEF — The copyright holder may seek immediate
-      injunctive relief to prevent ongoing or threatened infringement.
+  (i) INJUNCTIVE RELIEF — The copyright holder may seek IMMEDIATE
+      temporary restraining orders, preliminary injunctions, and
+      permanent injunctions to prevent ongoing or threatened
+      infringement. You acknowledge that infringement would cause
+      IRREPARABLE HARM for which monetary damages alone would be
+      inadequate, and you consent to injunctive relief without the
+      requirement of posting bond.
 
-  (f) ATTORNEYS' FEES — In any legal action arising from infringement
+  (j) INTERNATIONAL ENFORCEMENT — The copyright holder will enforce
+      this License in ALL jurisdictions worldwide, including but not
+      limited to: the United States, Canada, the European Union, the
+      United Kingdom, Australia, Japan, South Korea, and all signatories
+      to the Berne Convention, TRIPS Agreement, and WIPO Copyright
+      Treaty. Infringers may be subject to the laws and penalties of
+      EVERY jurisdiction in which the infringement occurs or has effect.
+
+  (k) INDEMNIFICATION — Any person or entity that breaches this License
+      shall INDEMNIFY and HOLD HARMLESS the copyright holder against
+      ALL costs, expenses, liabilities, and damages arising from
+      enforcement, including but not limited to: attorneys' fees,
+      expert witness fees, court costs, investigation costs, forensic
+      analysis costs, and any damages awarded against the copyright
+      holder in connection with enforcement proceedings.
+
+  (l) ATTORNEYS' FEES — In any legal action arising from infringement
       of this License, the prevailing party shall be entitled to
-      recover reasonable attorneys' fees and costs (17 U.S.C. § 505).
+      recover reasonable attorneys' fees, expert fees, and all
+      litigation costs (17 U.S.C. § 505).
+
+  (m) CUMULATIVE REMEDIES — ALL remedies under this Section 4 are
+      CUMULATIVE and not exclusive. The copyright holder may pursue
+      statutory damages, actual damages, liquidated damages, trade
+      secret damages, DMCA damages, injunctive relief, criminal
+      referral, and any other available remedy SIMULTANEOUSLY.
+      Exercise of one remedy does not waive or preclude any other.
+
+  (n) AGGREGATE EXPOSURE SUMMARY — For clarity, a single act of willful
+      infringement involving the complete Software may expose the
+      infringer to the COMBINED total of:
+        - Statutory damages:     up to $1,500,000+ (10 works × $150,000)
+        - Liquidated damages:    $1,000,000+ per violation
+        - Trade secret damages:  uncapped actual + 2x exemplary
+        - DMCA damages:          up to $25,000 per circumvention act
+        - Actual damages:        UNCAPPED (full market value + profits)
+        - Criminal fines:        up to $5,250,000
+        - Criminal imprisonment: up to 10 years
+        - Plus: all attorneys' fees, costs, and injunctive relief
+      TOTAL MINIMUM CIVIL EXPOSURE: MILLIONS OF DOLLARS per incident.
 
 ================================================================================
 5. INTELLECTUAL PROPERTY
