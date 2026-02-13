@@ -1,0 +1,40 @@
+[workspace]
+members = [
+    "icarus-math",
+    "icarus-field",
+    "icarus-gpu",
+    "icarus-engine",
+    "icarus-viz",
+    "icarus-mcp",
+    "icarus-bench",
+    "icarus-game",
+    "cortana-core",
+    "cortana-mcp",
+]
+resolver = "2"
+
+[workspace.dependencies]
+num-complex = { version = "0.4", features = ["serde"] }
+num-traits = "0.2"
+nalgebra = { version = "0.33", features = ["serde-serialize"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tokio = { version = "1", features = ["full"] }
+anyhow = "1"
+thiserror = "2"
+cudarc = { version = "0.18", features = ["cuda-version-from-build-system", "fallback-latest"] }
+rand = { version = "0.8", features = ["small_rng"] }
+half = "2"
+
+# Internal crates
+icarus-math = { path = "icarus-math" }
+icarus-field = { path = "icarus-field" }
+icarus-gpu = { path = "icarus-gpu" }
+icarus-engine = { path = "icarus-engine" }
+icarus-viz = { path = "icarus-viz" }
+cortana-core = { path = "cortana-core" }
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1

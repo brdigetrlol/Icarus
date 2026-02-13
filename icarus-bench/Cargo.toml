@@ -1,0 +1,24 @@
+[package]
+name = "icarus-bench"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "icarus-bench"
+path = "src/main.rs"
+
+[[bin]]
+name = "icarus-train"
+path = "src/train.rs"
+
+[[bin]]
+name = "icarus-viz"
+path = "src/visualize.rs"
+
+[dependencies]
+icarus-math = { workspace = true }
+icarus-field = { workspace = true }
+icarus-gpu = { workspace = true }
+icarus-engine = { workspace = true }
+anyhow = { workspace = true }
+rand = { workspace = true }

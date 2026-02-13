@@ -1,0 +1,20 @@
+[package]
+name = "icarus-mcp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+icarus-engine = { workspace = true }
+icarus-gpu = { workspace = true }
+icarus-math = { workspace = true }
+icarus-field = { workspace = true }
+icarus-viz = { workspace = true }
+anyhow = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tokio = { workspace = true }
+mcp-core = { path = "/root/workspace-v2/mcp-forge/mcp-core" }
+async-trait = "0.1"
+tracing = "0.1"
+byteorder = "1"
+chrono = "0.4"

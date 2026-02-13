@@ -1,0 +1,6 @@
+/target/
+*.pdf
+*.pdf:Zone.Identifier
+Cargo.lock
+logs/
+training-output.log

@@ -1,0 +1,19 @@
+[package]
+name = "cortana-mcp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cortana-core = { workspace = true }
+icarus-engine = { workspace = true }
+icarus-field = { workspace = true }
+icarus-math = { workspace = true }
+anyhow = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tokio = { workspace = true }
+mcp-core = { path = "/root/workspace-v2/mcp-forge/mcp-core" }
+async-trait = "0.1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+chrono = "0.4"
